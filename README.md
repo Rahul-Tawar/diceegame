@@ -1,4 +1,4 @@
 AUTHOR : Rahul-Tawar
 
-About diceegame
+About diceegame :
 Simple dicee game just press f5 to play
